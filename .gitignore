@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Large media files (agar songs badi hai to skip karo)
+# *.mp3
+# *.jpg
+# *.png
+
+# Environment
+.env
+.env.local
