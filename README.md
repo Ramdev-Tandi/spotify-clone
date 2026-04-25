@@ -27,4 +27,4 @@ It allows users to play songs, switch between tracks, control volume, and browse
 ##  Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ramdev-tandi/spotify-clone.git
+   git clone https://github.com/Ramdev-Tandi/spotify-clone.git
